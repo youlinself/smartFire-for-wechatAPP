@@ -1,0 +1,90 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "id": -1,
+          "name": "db guide",
+          "pathName": "pages/databaseGuide/databaseGuide",
+          "query": ""
+        },
+        {
+          "name": "pages/login/login",
+          "pathName": "pages/login/login",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine/mine",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/xxffFirestation/hydrant/detail/detail",
+          "pathName": "pages/xxffFirestation/hydrant/detail/detail",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/xxffFirestation/hydrantDetail/index",
+          "pathName": "pages/xxffFirestation/hydrantDetail/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/login/login",
+          "pathName": "pages/login/login",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/owner-super/problem/index",
+          "pathName": "pages/owner-super/problem/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/tourism/tourism",
+          "pathName": "pages/tourism/tourism",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/datapage/hydranticon/index",
+          "pathName": "pages/datapage/hydranticon/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/datapage/warn/index",
+          "pathName": "pages/datapage/warn/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/index/index",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/mine/mine",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

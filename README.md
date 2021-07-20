@@ -12,6 +12,16 @@
 - 📫 多用户类型设计
 - 😄 个性化个人页面
 - ⚡ 在此感谢 ColorUI 提供的样式案例，让我能更快的开发
+
+
+**具体源码**
+- 完整代码包为xiaofang.rar
+- 解压后用微信开发者工具打开即可
+- 因用到云开发功能，所以用设置项目为云开发才可以正常使用小程序
+- 关键云库设计
+- 表名register-key,字段key。用于注册验证码
+- 表名user-login，用于用户信息存储
+- 按以上表名设计云库可正常使用小程序。
 <!--
 **youlinself/youlinself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
